@@ -1,6 +1,11 @@
 # Basic Information
 title: "Yichen Xie"
-description: "Master student in Robotics"
+description: |
+   Master student in Robotics 
+  <h3>📞 Contact</h3>
+  <p>Email: <a href="mailto:yxie78@jhu.edu">yxie78@jhu.edu</a></p>
+  <p>GitHub: <a href="https://github.com/Fireleaf16">Fireleaf16</a></p>
+  <p>LinkedIn: <a href="https://linkedin.com/in/yichenxie">yichenxie</a></p>
 author: "Yichen Xie"
 email: "yxie78@jhu.edu"
 
@@ -17,7 +22,6 @@ navbar-links:
   Home: "index.md"
   Publications: "publications.md"
   Research: "research.md"
-  Contact: "contact.md"
 
 # Markdown 
 markdown: kramdown
