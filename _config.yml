@@ -6,6 +6,7 @@ email: "yxie78@jhu.edu"
 
 # Theme
 theme: jekyll-theme-minimal
+logo: "/images/profile.jpg"
 
 # Website URL
 baseurl: ""
