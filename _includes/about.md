@@ -1,7 +1,3 @@
-layout: page
-title: About Me
-permalink: /about/
----
 
 # 👨‍🎓 About Me
 
@@ -26,5 +22,3 @@ My research focuses on the intersection of **robot manipulation, teleporation an
 - **GitHub**: [github.com/Fireleaf16](https://github.com/Fireleaf16)
 - **LinkedIn**: [linkedin.com/in/yichenxie](https://linkedin.com/in/yichen-xie-137333291)
 
----
-[🏠 Home](index.md) | [🔬 Research](research.md) | [📜 Publications](publications.md) | [📞 Contact](contact.md)
