@@ -1,7 +1,7 @@
 
 # 👨‍🎓 About Me
 
-I am a **2nd-Year Master Student in Robotics at Johns Hopkins University**, passionate about Manipulation based on Robot Learning or Vision-Planning. Currently, I am working as a Robotics Engineer at **COWAROBOT**, where I focus on robotic teleoperation and robot learning. Previously, I am a research assistant at **[Intuitive Computing Lab](https://intuitivecomputing.github.io/)**, advised by **[Dr Tsung-Chi Lin](https://www.lintsungchi.com/)** and **[Professor Chien-Ming Huang](https://www.cs.jhu.edu/~cmhuang/)**.
+I am a 2nd-Year Master Student in Robotics at **Johns Hopkins University**, passionate about Manipulation based on Robot Learning or Vision-Planning. Currently, I am working as a Robotics Engineer at **COWAROBOT**, where I focus on robotic teleoperation and robot learning. Previously, I am a research assistant at **[Intuitive Computing Lab](https://intuitivecomputing.github.io/)**, advised by **[Dr. Tsung-Chi Lin](https://www.lintsungchi.com/)** and **[Prof. Chien-Ming Huang](https://www.cs.jhu.edu/~cmhuang/)**.
 
 ## 🔬 Research Interests
 My research focuses on the intersection of **robot manipulation, teleporation and learning**, specifically:
