@@ -13,9 +13,7 @@ email: "yxie78@jhu.edu"
 theme: jekyll-theme-minimal
 logo: "/images/profile.jpg"
 
-# Website URL
-baseurl: ""
-url: "https://Fireleaf16.github.io"
+
 
 # Navigation
 navbar-links:
