@@ -5,9 +5,9 @@ I am a **2nd-Year Master Student in Robotics at Johns Hopkins University**, pass
 
 ## 🔬 Research Interests
 My research focuses on the intersection of **robot manipulation, teleporation and learning**, specifically:
-- **🤖 Robot Motion Planning and COntrol**: RRT, EST, A*, PID, LQR and trajectory optimization.
+- **🤖 Robot Motion Planning and Control**: RRT, EST, A*, PID, LQR and trajectory optimization.
 - **📡 Robot Teleporation**: VR based on Meta Quest3 and Vive.
-- **🧠 Robot learning**: Reinforcement learning, Diffusion policy.
+- **🧠 Robot learning**: Reinforcement learning, Diffusion policy and ACT.
 
 ## 🎓 Education
 - **MSc in Robotics**, Johns Hopkins University (2023 - 2025)
