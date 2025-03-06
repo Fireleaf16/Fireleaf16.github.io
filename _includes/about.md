@@ -1,7 +1,7 @@
 
 # 👨‍🎓 About Me
 
-I am a 2nd-Year Master Student in Robotics at **Johns Hopkins University**, passionate about Manipulation based on Robot Learning or Vision-Planning. Currently, I am working as a Robotics Engineer at **COWAROBOT**, where I focus on robotic teleoperation and robot learning. Previously, I am a research assistant at **[Intuitive Computing Lab](https://intuitivecomputing.github.io/)**, advised by **[Dr. Tsung-Chi Lin](https://www.lintsungchi.com/)** and **[Prof. Chien-Ming Huang](https://www.cs.jhu.edu/~cmhuang/)**.
+I am a 2nd-Year Master Student in Robotics at **Johns Hopkins University**, passionate about Manipulation based on Robot Learning or Vision-Planning. Currently, I am working as a Robotics Engineer at **[COWAROBOT](https://www.cowarobot.com/)**, where I focus on robotic teleoperation and robot learning. Previously, I am a research assistant at **[Intuitive Computing Lab](https://intuitivecomputing.github.io/)**, advised by **[Dr. Tsung-Chi Lin](https://www.lintsungchi.com/)** and **[Prof. Chien-Ming Huang](https://www.cs.jhu.edu/~cmhuang/)**.
 
 ## 🔬 Research Interests
 My research focuses on the intersection of **robot manipulation, teleporation and learning**, specifically:
@@ -14,11 +14,11 @@ My research focuses on the intersection of **robot manipulation, teleporation an
 - **BSc in Mechanical Engineering of Pilot Class**, Shanghai Jiao Tong University (2019 - 2023)
 
 ## 🏆 Honors & Awards
-- **Outstanding Graduate**, Shanghai Jiao Tong University
-- **Second-Prize in Tenth National Mechanical Design Competition**, National Mechanical Engineering Committee of China
+- **Outstanding Graduate**, Shanghai Jiao Tong University, 2023
+- **Second-Prize in Tenth National Mechanical Design Competition**, National Mechanical Engineering Committee of China, 2022
+- **Weichai Power Scholarship**, Shanghai Jiao Tong University, 2022
+- **Weichai Power Scholarship**, Shanghai Jiao Tong University, 2021
+- **Xiaomi Scholarship**, Shanghai Jiao Tong University, 2020
 
-## 📞 Contact
-- **Email**: yxie78@jhu.edu
-- **GitHub**: [github.com/Fireleaf16](https://github.com/Fireleaf16)
-- **LinkedIn**: [linkedin.com/in/yichenxie](https://linkedin.com/in/yichen-xie-137333291)
+
 
