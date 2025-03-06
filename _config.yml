@@ -1,11 +1,6 @@
 # Basic Information
 title: "Yichen Xie"
-# Yichen Xie
-<img src="images/profile.jpg" width="150" align="left" style="border-radius: 50%; margin-right: 15px;">
-
-**Master student in Robotics**  
-[View My GitHub Profile](https://github.com/Fireleaf16)
-
+description: "Master student in Robotics"
 author: "Yichen Xie"
 email: "yxie78@jhu.edu"
 
@@ -16,7 +11,7 @@ theme: jekyll-theme-minimal
 baseurl: ""
 url: "https://Fireleaf16.github.io"
 
-# Nevigation
+# Navigation
 navbar-links:
   Home: "index.md"
   Publications: "publications.md"
@@ -28,5 +23,6 @@ markdown: kramdown
 kramdown:
   input: GFM
   toc_levels: 1..3
+
 
 
