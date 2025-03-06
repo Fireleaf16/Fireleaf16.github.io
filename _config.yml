@@ -14,7 +14,6 @@ url: "https://Fireleaf16.github.io"
 # Nevigation
 navbar-links:
   Home: "index.md"
-  About: "about.md"
   Publications: "publications.md"
   Research: "research.md"
   Contact: "contact.md"
