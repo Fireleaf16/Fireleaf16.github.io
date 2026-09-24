@@ -1,31 +1,23 @@
-# Basic Information
+# Site identity
 title: "Yichen Xie"
 description: |
-  Master student in Robotics 
-  <h3>📞 Contact</h3>
-  <p>Email: <a href="mailto:yxie78@jhu.edu">yxie78@jhu.edu</a></p>
-  <p>GitHub: <a href="https://github.com/Fireleaf16">Fireleaf16</a></p>
-  <p>LinkedIn: <a href="https://linkedin.com/in/yichen-xie-137333291">yichenxie</a></p>
+  Robotics and embodied intelligence engineer focused on manipulation,
+  teleoperation, and robot learning.
+  <p class="sidebar-links">
+    <a href="mailto:yxie78@alumni.jh.edu">Email</a>
+    <a href="https://github.com/Fireleaf16">GitHub</a>
+    <a href="https://www.linkedin.com/in/yichen-xie-137333291">LinkedIn</a>
+  </p>
 author: "Yichen Xie"
-email: "yxie78@jhu.edu"
+email: "yxie78@alumni.jh.edu"
+url: "https://fireleaf16.github.io"
 
 # Theme
 theme: jekyll-theme-minimal
 logo: "/images/profile2.jpg"
 
-
-
-# Navigation
-navbar-links:
-  Home: "index.md"
-  Publications: "publications.md"
-  Research: "research.md"
-
-# Markdown 
+# Markdown
 markdown: kramdown
 kramdown:
   input: GFM
   toc_levels: 1..3
-
-
-
